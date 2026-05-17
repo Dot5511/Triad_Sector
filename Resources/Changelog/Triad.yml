@@ -673,3 +673,12 @@ Entries:
   id: 2203
   time: '2026-05-17T03:37:40.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/86
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: >-
+        Biogen, Biocube, Cutter, Med Fab, Sheetmeister & Uniform machines should
+        now be able to be linked the the Material Silo
+  id: 2204
+  time: '2026-05-17T06:22:49.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/89
